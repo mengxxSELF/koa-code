@@ -129,7 +129,7 @@ module.exports = context
   });
 ```
 
-关于 (__defineGetter__)[https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/__defineGetter__]
+关于 [__defineGetter__](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/__defineGetter__)
 
 
 #### response.js 实现
